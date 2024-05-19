@@ -1,0 +1,4 @@
+1. First clone the project form github, this link - https://github.com/mdimran007/themelook-interview-task.git
+2. make a .env file and configure with your database
+3. install composer
+4. run the project
