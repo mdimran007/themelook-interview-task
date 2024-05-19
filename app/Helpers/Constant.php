@@ -1,0 +1,6 @@
+<?php
+
+const ORDER_STATUS_PENDING = 0;
+const ORDER_STATUS_APPROVED = 1;
+const ORDER_STATUS_CANCEL = 2;
+
